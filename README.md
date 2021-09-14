@@ -1,2 +1,2 @@
 # arcade_shooter
-python game for homemade shooter game
+python game for homemade arcade machine
