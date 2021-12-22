@@ -1,9 +1,6 @@
 #description: shooter game for homemade arcade machine, RPi based
 #author: Ramiro Vargas, August 2021
 
-#pending agregar funcion de respawn para los enemigos, con parametero x random
-#eliminar de init() las partes que respawn ya tien
-
 
 #!/usr/bin/env python
 
